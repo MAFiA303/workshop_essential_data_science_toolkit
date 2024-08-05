@@ -87,3 +87,5 @@ Some of the most common libraries are:
 [Source](https://docs.python.org/3/library/functions.html)
 
 
+# Next Steps
+Let's start with the first notebook: `intro-material.ipynb`
