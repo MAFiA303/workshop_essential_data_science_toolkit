@@ -41,6 +41,7 @@ Today we will be exploring "Most Streamed Spotify Songs 2024"
   * `conda activate spotify`
   * check environment is created: `conda env list`
     * there should be a `*` next to the `spotify` environment
+  * [Magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Optional VS Code Plugins
 
@@ -84,3 +85,5 @@ Some of the most common libraries are:
 ![alt text](image.png)
 
 [Source](https://docs.python.org/3/library/functions.html)
+
+
