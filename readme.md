@@ -17,8 +17,7 @@ To get started, you'll need to download and install the following tools:
 There are many sources for datasets, but my favorite is [Kaggle](https://www.kaggle.com/datasets).
 
 Today we will be exploring "Most Streamed Spotify Songs 2024" 
-* the source on kaggle is [here](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024).
-* or you can find a copy in the repo under `Spotify Top Songs 2024.zip`
+* the dataset: `Spotify Top Songs 2024.zip`
 
 
 ## Running the code
