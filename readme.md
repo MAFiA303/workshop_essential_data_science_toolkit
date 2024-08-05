@@ -70,7 +70,7 @@ Downloading python packages can be risky! Always check the source:
 
 
 ## Python built-in libraries & functions
-here is a list of the built-in [Pbuilt-in libraries](https://docs.python.org/3/library/index.html) in latest python version.
+here is a list of the [built-in libraries](https://docs.python.org/3/library/index.html) in latest python version.
 Some of the most common libraries are:
 * os
 * math
@@ -81,5 +81,6 @@ Some of the most common libraries are:
 * time
 
 ### Functions
-here is an iframe showing the built-in functions in python from this link https://docs.python.org/3/library/functions.html
-<iframe src="https://docs.python.org/3/library/functions.html" width="100%" height="500px"></iframe>
+![alt text](image.png)
+
+[Source](https://docs.python.org/3/library/functions.html)
