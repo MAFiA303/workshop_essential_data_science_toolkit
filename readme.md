@@ -87,4 +87,4 @@ Some of the most common libraries are:
 
 
 # Next Steps
-Let's start with the first notebook: `intro-material.ipynb`
+Let's start with the first notebook: `intro_material.ipynb`
